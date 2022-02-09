@@ -1,0 +1,19 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "Discord bot made by Clauderlan Batista, a student initiative for continuous learning.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord",
+    "bot",
+    "clauderlan"
+  ],
+  "author": "Clauderlan Batista \\ <Clauderlanbatista@hotmail.com\\> (https://www.linkedin.com/in/clauderlan-batista-alves-5a62921aa/)",
+  "license": "Unlicense",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
